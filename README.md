@@ -86,7 +86,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 7.1 y 7.2 respectivam
 
 | Calculado | Medido|Calculado |Medido|Calculado|Medido|
 |  :---: | :---: | :---: |:---: | :---: | :---: |
-|10[v]   |  0      |0       |10[v]    |10[v]   |  
+|10[v]   |  0    |0      |10[v]   |10[v]   |   a  |
 
 
 7.2 .- Tabla de la medicion de corriente aplicando teorema de superposición
