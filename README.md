@@ -110,4 +110,7 @@ tambien asi mismo la suma de cada corriente medida en su respectivo analisis de 
 4.- comprendemos que al desactivar una fuente de voltaje queda un cortocircuito y al desactivar una fuente de corriente queda un circuito abierto. 
 
 
+CRONOGRAMA
 
+
+![Cronograma](https://github.com/Damian-A-Perez/Informe-01/blob/master/img/corno%20l4.png)
