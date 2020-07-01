@@ -94,7 +94,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 7.1 y 7.2 respectivam
 |  :---: | :---: | :---: |:---: | :---: | :---: |
 |25.54[mA]   | 25.5[mA]   |25.54[mA]  |25.5[mA]  |0    |   0 |
 
-8.- CONCLUCIONES
+8.- CONCLUSIONES
 
 8.1.- Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
