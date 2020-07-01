@@ -59,6 +59,10 @@ Este teorema nos ayudara para determinar valores de tension, en un nodo del circ
 
 ![CI](https://github.com/Damian-A-Perez/Informe-04/blob/master/Img/Circuito%20para%20analisis%20del%20teorema%20de%20superposicion.png)
 
+Circuito diseñado .- 
+
+![CIP](https://github.com/Damian-A-Perez/Informe-04/blob/master/Img/Smashing%20Hillar.png)
+
 6.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 7.1 y 7.2 respectivamente.
