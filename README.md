@@ -94,6 +94,18 @@ proporcionan. Anote el valor de las mediciones en la tabla 7.1 y 7.2 respectivam
 |  :---: | :---: | :---: |:---: | :---: | :---: |
 |25.54[mA]   | 25.5[mA]   |25.54[mA]  |25.5[mA]  |0    |   0 |
 
+8.- CONCLUCIONES
+
+8.1.- Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones. 
+
+1.-Podemos verificar que la suma de los voltajes en (VA) cuando v1=0 y cuando v2=0 nos da el Vltaje Total de (VA), cumpliendose el teorema
+tambien asi mismo la suma de cada corriente medida en su respectivo analisis de fuente nos da igual la Corriente Total(Ix), verificando asi que ambas partes cumplen con el teorema de superposicion.
+
+2.- enocontramos una forma mas de calcular elementos puntuales en un circuito y asi analizar como afecta cada fuente al circuito.
+
+
 
 
 
