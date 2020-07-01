@@ -107,5 +107,7 @@ tambien asi mismo la suma de cada corriente medida en su respectivo analisis de 
 
 3.- vimos como cambia la compocicion del circuito dependiendo de cuando desactivamos una fuente.
 
+4.- comprendemos que al desactivar una fuente de voltaje queda un cortocircuito y al desactivar una fuente de corriente queda un circuito abierto. 
+
 
 
