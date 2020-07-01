@@ -51,7 +51,12 @@ Este teorema nos ayudara para determinar valores de tension, en un nodo del circ
 
 5.- Materiales 
 
-![Materiales]
+![Materiales](https://github.com/Damian-A-Perez/Informe-04/blob/master/Img/Material%20y%20equipo%20(4).png)
+
+6 .- Procedimiento 
+
+6.1 .- Arme el circuito que se muestra en la figura 
+
 
 
 
