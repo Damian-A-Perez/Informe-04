@@ -19,13 +19,13 @@ Comprobar experimentalmente el Teorema de Superposición.
 
 2.1 Objetivos especifivos 
 
-2.1.1- 
+2.1.1- Comprobar que podemos obtener el valor de cada variable mediante la suma de algebraica de las respuestas en el analisis independiente de cada fuente.
 
-2.1.2- 
+2.1.2- Comprender como actua cada elemento segun la fuente activa.
 
-2.1.3- 
+2.1.3- Verificar el cumplimiento del teorema en la practica. 
 
-2.1.4- 
+2.1.4- Estudiar como se realiza la superpocicion de las fuentes. 
 
 3.- Marco Teórico
 
