@@ -111,9 +111,9 @@ tambien asi mismo la suma de cada corriente medida en su respectivo analisis de 
 
 9. Recomendaciones 
 
-- Desconectar la fuente independiente contraria a la que se vaya a analizar 
-- Tomar en consideracion la direccion de las corrientes y la polaridad de los elementos lineales
-- Asegurarse de polarizar correctamente los elementos dentro del elemento de trabajo y simulacion digital para mayores beneficios en la corrida del circuito
+- Desconectar la fuente independiente contraria a la que se vaya a analizar. 
+- Tomar en consideracion la direccion de las corrientes y la polaridad de los elementos lineales.
+- Asegurarse de polarizar correctamente los elementos dentro del elemento de trabajo y simulacion digital para mayores beneficios en la corrida del circuito.
 
 CRONOGRAMA
 
