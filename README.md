@@ -81,8 +81,19 @@ proporcionan. Anote el valor de las mediciones en la tabla 7.1 y 7.2 respectivam
 
 | Calculado | Medido|Calculado |Medido|Calculado|Medido|
 |  :---: | :---: | :---: |:---: | :---: | :---: |
-|10[v]   |  0    |0      |10[v]   |10[v]   |   a  |
+|952 [mV] |952 [mV]|-6.5272 [v] |-6.53 [v] |7.479 [v]| 7.48 [v]|
 
 
 7.2 .- Tabla de la medicion de corriente aplicando teorema de superposición
+
+
+| Corriente Total(Ix)| Corriente(Ix)cuandoV2=0| Corriente(Ix)cuandoV1=0 |
+|  :---:|  :---: | :---: | 
+
+| Calculado | Medido|Calculado |Medido|Calculado|Medido|
+|  :---: | :---: | :---: |:---: | :---: | :---: |
+|25.54[mA]   | 25.5[mA]   |25.54[mA]  |25.5[mA]  |0    |   0 |
+
+
+
 
