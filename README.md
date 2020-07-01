@@ -81,5 +81,18 @@ proporcionan. Anote el valor de las mediciones en la tabla 7.1 y 7.2 respectivam
 | :--:            |        :--:         |       :--:          |
 |         |       |         |           |          |          |  
 
+| Voltaje| Trayectoria 1 | Trayectoria 2 |Trayectoria 3 |
+|  :---:|  :---: | :---: | :---: |
+
+|        | Calculado | Medido|Calculado |Medido|Calculado|Medido|
+|  :---:|  :---: | :---: | :---: |:---: | :---: | :---: |
+| VF(V)       | 10[v]   |10[v]   |  0      |0       |10[v]     |10[v]   |  
+| VR1(V)      | -2.05[v]|-2.05[v]|  0      |0       |-2.05[v]  |-2.05[v]|  
+| VR2(V)      | -4.25[v]|-4.25[v]|4.25[v]  |4.25[v] | 0        |0       |
+| VR3(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]| 
+| VR4(V)      | 0       |0       |-2.125[v]|-2.12[v]|-2.1249[v]|-2.12[v]|
+| `VR5(V)`    | -3.69[v]|-3.7[v] | 0       |0       |-3.69[v]  |-3.7[v] |
+| `SUMATORIA V` | 0[v]    |0[v]    | 0[v]    |0[v]    |0[v]    |0[v]    |
+
 7.2 .- Tabla de la medicion de corriente aplicando teorema de superposición
 
