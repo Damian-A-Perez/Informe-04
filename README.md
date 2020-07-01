@@ -33,7 +33,7 @@ Teorema De Superposición
 
 El teorema de superposicion es efectivamente una manera de soluciones circuitos electricos lineales que contengan mas de una fuente independiente, es decir, circuitos que contengan unicamente elementos lineales dentro de si, dentro de dichos circuito la corriente que atraviesa el circuito es definida proporcional a la diferencia de tension entre terminales.
 
-¡[Circuito Lineal](https://github.com/Damian-A-Perez/Informe-04/blob/master/Img/superposicion1.gif)
+![Circuito Lineal](https://github.com/Damian-A-Perez/Informe-04/blob/master/Img/superposicion1.gif)
 
 Dicho teorema nos establece que el voltaje entre dos puntos, es la suma algebraica de los voltajes determinados por cada una de las fuentes, a su vez nos explica que la corriente entre dos puntos es la suma algebraica de las corrientes, dependiendo del caso a analizar. 
 
