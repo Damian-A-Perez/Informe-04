@@ -82,7 +82,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 7.1 y 7.2 respectivam
 |         |       |         |           |          |          |  
 
 | Voltaje Total(VA)| Voltaje(VA)cuandoV2=0| Voltaje(VA)cuandoV1=0 |
-|  :---:|  :---: | :---: | :---: |
+|  :---:|  :---: | :---: | 
 
 |        | Calculado | Medido|Calculado |Medido|Calculado|Medido|
 |  :---:|  :---: | :---: | :---: |:---: | :---: | :---: |
