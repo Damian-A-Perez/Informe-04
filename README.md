@@ -105,7 +105,7 @@ tambien asi mismo la suma de cada corriente medida en su respectivo analisis de 
 
 2.- enocontramos una forma mas de calcular elementos puntuales en un circuito y asi analizar como afecta cada fuente al circuito.
 
-
+3.- vimos como cambia la compocicion del circuito dependiendo de cuando desactivamos una fuente.
 
 
 
