@@ -75,11 +75,6 @@ proporcionan. Anote el valor de las mediciones en la tabla 7.1 y 7.2 respectivam
 
 7.1.- Tabla de la medicion de voltaje aplicando teorema de superposición
 
-|Voltaje Total(VA)|Voltaje(VA)cuandoV2=0|Voltaje(VA)cuandoV1=0|
-|     :---:       |        :---:        |     :---:           | 
-|Calculado|Medido |Calculado|  Medido   |Calculado | Medido   |
-| :--:            |        :--:         |       :--:          |
-|         |       |         |           |          |          |  
 
 | Voltaje Total(VA)| Voltaje(VA)cuandoV2=0| Voltaje(VA)cuandoV1=0 |
 |  :---:|  :---: | :---: | 
